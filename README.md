@@ -1,6 +1,6 @@
-# :volcano: Hello. 
+# :volcano: Hello 
 
-### Portfolio
+### React Portfolio
 
 Hi. In this folder, you will see all the code I wrote for my portfolio website. 
 
