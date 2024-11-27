@@ -4,6 +4,6 @@
 
 > In this folder, you will see all the code I wrote for my portfolio website. 
 
-It's a **react.js** website that I build in 2022. 
+It's a **react.js** website that I build in 2020. 
 
 www.copp3lia.com
